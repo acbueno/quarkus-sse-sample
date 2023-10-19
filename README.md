@@ -1,4 +1,4 @@
-##Server Sent Events(SSE)
+#Server Sent Events(SSE)
 
 Server Sent Events(SSE) é uma tecnologia, que permite enviar notificação de um servidor para um cliente via conexão HTTP. 
 O trafego de notificações é unidirecional ou seja somente o servidor podem enviar notificações. 
