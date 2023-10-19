@@ -5,4 +5,5 @@ O trafego de notificações é unidirecional ou seja somente o servidor podem en
 É uma boa alternativa para evitar overhead de pollings, pois cliente recebe atualização da notificação quando ocorre mudança do seu estado. Com isso é possível evitar processamento desnecessários. 
 
 quarkus-sse-producer-sample: exemplo de uma aplicação produtora de eventos (SSE). 
+
 quarkus-sse-consumer-sample: exemplo de uma aplicação consumidora de eventos (SSE).
